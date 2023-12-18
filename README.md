@@ -1,2 +1,2 @@
 # student-lms-hack-the-verse-
-go to comment to see how to run 
+go to commits to see how to run 
